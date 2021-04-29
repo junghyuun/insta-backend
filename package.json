@@ -1,0 +1,19 @@
+{
+  "name": "insta-clone",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junghyuun/insta-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junghyuun/insta-backend/issues"
+  },
+  "homepage": "https://github.com/junghyuun/insta-backend#readme"
+}
