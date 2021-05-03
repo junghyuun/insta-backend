@@ -6,9 +6,10 @@ export default {
     editProfile: async (
       _, 
       { firstName, lastName, username, email, password: newPassword },
-      { loggedInUser }
-    ) => { 
-      console.log(loggedInUser);
+      { loggedInUser, protectResolver }
+    ) => {
+      protectResolver(loggedInUser);
+
       let uglyPassword = null;
 
       if (newPassword) {
