@@ -17,7 +17,7 @@
 - [x] Upload Photo (Parse #)
 - [x] See Photo
 - [x] See Hashtag
-- [ ] Search Photos
+- [x] Search Photos
 - [ ] Edit Photo
 - [ ] Like / Unlike Photo
 - [ ] See Photo Likes
