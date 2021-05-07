@@ -14,14 +14,14 @@
 - [x] Search Users
 
 ## Photos
+- [ ] Upload Photo (Parse #)
 - [ ] See Photo
-- [ ] Upload Photo
+- [ ] See Hashtags
+- [ ] Search Photos
 - [ ] Edit Photo
 - [ ] Like / Unlike Photo
 - [ ] See Photo Likes
 - [ ] See Feed
-- [ ] Search Photos
-- [ ] See Hashtags
 
 ## Comments
 - [ ] Comment on Photo
