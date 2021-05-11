@@ -19,8 +19,8 @@
 - [x] See Hashtag
 - [x] Search Photos
 - [x] Edit Photo
-- [ ] Like / Unlike Photo
-- [ ] See Photo Likes
+- [x] Like / Unlike Photo
+- [x] See Photo Likes
 - [ ] See Feed
 
 ## Comments
